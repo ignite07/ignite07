@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ignite07.
 - 👀 I’m interested in Cyber-Security.
-- 🌱 I’m currently learning Python, Flutter
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me LinkedIn - www.linkedin.com/in/shruti-makhwan-3605b31b2
                       Instagram - https://www.instagram.com/shruti_makhwan701/
